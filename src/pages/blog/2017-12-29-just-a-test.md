@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /test
-title: just a test
+title: just a testsssss
 date: 2017-12-29T22:26:55.531Z
 description: |-
   just a test
