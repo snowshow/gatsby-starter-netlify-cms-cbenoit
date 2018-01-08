@@ -1,3 +1,6 @@
+
+![Build Status](https://travis-ci.org/snowshow/gatsby-starter-netlify-cms-cbenoit.svg?branch=master)
+
 # Gatsby + Netlify CMS Starter
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
