@@ -11,7 +11,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/a-corps.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -53,7 +53,7 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/lodupont.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
