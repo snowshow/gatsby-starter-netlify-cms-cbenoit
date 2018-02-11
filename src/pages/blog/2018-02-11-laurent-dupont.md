@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /laurent_dupont
+path: /laurent-dupont
 title: LAURENT DUPONT
 date: 2018-02-11T13:06:34.895Z
 description: Comédien et metteur en scène
