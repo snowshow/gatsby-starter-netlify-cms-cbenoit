@@ -5,6 +5,8 @@ title: LAURENT DUPONT
 date: 2018-02-11T13:06:34.895Z
 description: Comédien et metteur en scène
 ---
+![Laurent DUPONT](/img/lodupont.jpg)
+
 ## Comédien et metteur en scène
 
 Diplômé Es Lettres à l’Université Paris Sorbonne, il poursuit sa formation de danseur auprès de Dominique Dupuis et de chanteur avec Iva Barthélemy à Paris et le Roy Hart. En 1980 il est cofondateur avec une plasticienne Pierangela Allegro et un musicien/artiste vidéaste Michel Sambin du TAM Teatromusica, une des 25 compagnies de théâtre expérimental subventionnées par le Ministère Italien de la Culture.
