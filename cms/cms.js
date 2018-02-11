@@ -19,6 +19,13 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
     title={entry.getIn(['data', 'title'])}
   />
 )
+const TestPostPreview = ({ entry, widgetFor }) => (
+  <BlogPostTemplate
+    content={widgetFor('body')}
+    description={entry.getIn(['data', 'description'])}
+    title={entry.getIn(['data', 'title'])}
+  />
+)
 
 const ProductPagePreview = ({ entry, widgetFor, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
@@ -66,3 +73,4 @@ CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('test', TestPostPreview)
